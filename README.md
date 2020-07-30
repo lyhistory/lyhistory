@@ -17,31 +17,24 @@ Here are some ideas to get you started:
 <div style="max-width: 600px;margin: auto;">
   <div>
 	  <h1>
-	  <a href="/docs/software" >
-		<img src="/docs/docs_image/software/architecture.png" alt="architecture" title="architecture" height="50" align="right"/>
+	  <a href="http://lyhistory.com/docs/software" >
 		<span>计算机基础 →</span>
 	  </a>
 	  </h1> 
-
   </div>
   <div>
   <h1>
-	  <a href="/docs/coder2hacker" >
-		<img src="/docs/docs_image/coder2hacker/kali.png" alt="hacker" title="hacker" height="50" align="right"/>
+	  <a href="http://lyhistory.com/docs/coder2hacker" >
 		<span>道德黑客入门 →</span>
 	  </a>
 	  </h1>
   </div>
-  
   <div>
-  <h1>
-	  <a href="/docs/blockchain" >
-		<img src="/docs/docs_image/blockchain/bitcoin.png" alt="blockchain" title="blockchain" height="50" align="right"/>
+  <h1>	  <a href="http://lyhistory.com/docs/blockchain" >
 		<span>区块链入门 →</span>
 	  </a>
 	  </h1>
   </div>
-  <img class="header" src="/docs/docs_image/coder2hacker/kali.png"/>
   <div style="max-width: 500px;
   margin: auto;
   background-color: lightgreen;">
@@ -75,3 +68,11 @@ Here are some ideas to get you started:
 </p>
 	</div>
 </div>
+
+ __      ____    ____  __    __   __       _______.___________.  ______   .______     ____    ____  ______   ______   .___  ___. 
+|  |     \   \  /   / |  |  |  | |  |     /       |           | /  __  \  |   _  \    \   \  /   / /      | /  __  \  |   \/   | 
+|  |      \   \/   /  |  |__|  | |  |    |   (----`---|  |----`|  |  |  | |  |_)  |    \   \/   / |  ,----'|  |  |  | |  \  /  | 
+|  |       \_    _/   |   __   | |  |     \   \       |  |     |  |  |  | |      /      \_    _/  |  |     |  |  |  | |  |\/|  | 
+|  `----.    |  |     |  |  |  | |  | .----)   |      |  |     |  `--'  | |  |\  \----.   |  |  __|  `----.|  `--'  | |  |  |  | 
+|_______|    |__|     |__|  |__| |__| |_______/       |__|      \______/  | _| `._____|   |__| (__)\______| \______/  |__|  |__| 
+                                                                                                                                 
